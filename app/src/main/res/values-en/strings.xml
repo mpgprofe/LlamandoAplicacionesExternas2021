@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LlamandoAplicacionesExternas2021</string>
+    <string name="boton">Button</string>
+    <string name="país">Spain</string>
+    <string name="pedirweb">Introduce your website</string>
+    <string name="lanzar">Launch</string>
+</resources>

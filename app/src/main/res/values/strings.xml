@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LlamandoAplicacionesExternas2021</string>
+    <string name="boton">Botón</string>
+    <string name="país">España</string>
+    <string name="pedirweb">Introduce tu página web</string>
+    <string name="lanzar">Lanzar</string>
+    <string name="mensajeError">Dirección incorrecta</string>
+</resources>
